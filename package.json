@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_the_complete_guide_mongo",
+  "version": "1.0.0",
+  "description": "NodeJS The complete guide (MongoDB)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "author": "V1ctoR",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3"
+  }
+}
