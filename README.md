@@ -1,5 +1,15 @@
 # Shop_Nodejs_MongoDB
 
+## Description
+Simple e-shop application, based on "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" course.
+
+## Technology stack:
+* NodeJS
+* Express
+* EJS
+* MySQL
+* MongoDB (mongoose)
+
 ## Available Scripts
 
 In the project directory, you can run:
